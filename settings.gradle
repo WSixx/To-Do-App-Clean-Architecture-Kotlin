@@ -1,0 +1,2 @@
+rootProject.name = "ToDoAppCleanArch"
+include ':app'
